@@ -1,2 +1,2 @@
 # GrabBag
-The program is written to create a simple data structure with the help of linked lists. The two major functions are to add items into the bag, and remove things from the bag, RANDOMLY. The program also keeps track of the count of items in the bag so as to know the size of the bag and give a message to the programmer if the bag is empty.
+Implementation of a simple bag data structure using linked lists. Supports two primary operations: randomly adding and removing items. The program also tracks the number of items to report the bag’s size and notifies the user if the bag is empty.
